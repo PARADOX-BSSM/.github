@@ -109,10 +109,9 @@ PARADOX (역설)
 
 ## 팀원 소개
 
-|류승찬|방세준|김유찬|박소은|박동현|
+|[류승찬](https://github.com/Roena0516)|[방세준](https://github.com/yuuki08noah)|[김유찬](https://github.com/winshine0326)|[박소은](https://github.com/soeun823)|[박동현](https://github.com/pdh0128)|
 |:---:|:---:|:---:|:---:|:---:|
 |프론트엔드|백엔드 & 데브옵스|프론트엔드|프론트엔드|백엔드|
-|[류승찬](https://github.com/Roena0516)|[방세준](https://github.com/yuuki08noah)|[김유찬](https://github.com/winshine0326)|[박소은](https://github.com/soeun823)|[박동현](https://github.com/pdh0128)|
 | <img src="https://github.com/user-attachments/assets/c45dc0e5-f70c-4c74-913a-99e816141517" width="120"/> | <img src="https://github.com/user-attachments/assets/f5f56924-5506-43e1-b35e-28b24db7921e" width="120"/> | <img src="https://github.com/user-attachments/assets/f8394b31-360d-4d35-b90e-72218b48f4f9" width="120"/> | <img src="https://github.com/user-attachments/assets/0d58637c-886e-4b32-8874-648918e2d48f" width="120"/> | <img src="https://github.com/user-attachments/assets/8cb3b0d2-c858-4a07-915e-093e6f501ec9" width="120"/> |
 
 
